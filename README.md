@@ -7,7 +7,7 @@ A project on forecasting sale of retail store.
 
 ```
 ├── DATA
-│    ├── rossmann-store-sales-dataset
+│    ├── Data(rossmann-store-sales-dataset)
 │    │   ├── train.csv
 │    │   └── store .csv
 │    ├── missing_value_handled.csv
